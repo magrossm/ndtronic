@@ -9,7 +9,7 @@ primary = "#151b2d"
 primary_light = "#151b2d"
 
 # Links
-link = "#3273dc"
+link = "#151b2d"
 link_hover = "rgb(54, 54, 54)"
 
 # Menu
