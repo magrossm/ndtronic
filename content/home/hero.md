@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-# title = "Academic"
+ title = "Endetronic Technology"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -51,6 +51,6 @@ weight = 10  # Order that this section will appear.
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/aceademic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Eine Initiative für einen holistischen Ansatz in der NDT**
+**Eine Initiative für einen technisch-holistischen Ansatz in der NDT**
 
-Mit **Endetronic Technology** verbindet man eine moderne Prüfung mit der Informationstechnologie von morgen
+Man erhält moderne Prüfung mit der Informationstechnologie von morgen
