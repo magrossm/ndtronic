@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+# title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -47,8 +47,8 @@ title = "Academic"
   label = "Uns folgen"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/aceademic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+# [cta_note]
+#  label = '<a class="js-github-release" href="https://sourcethemes.com/aceademic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 **Eine Initiative für einen holistischen Ansatz in der NDT**
