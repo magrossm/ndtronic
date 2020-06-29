@@ -38,7 +38,7 @@ weight = 10  # Order that this section will appear.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://whitepaper"
-  label = "Whitepaper"
+  label = "Whitepaper (bald)"
   icon_pack = "fas"
   icon = "download"
   
