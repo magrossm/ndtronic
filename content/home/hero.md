@@ -53,4 +53,4 @@ weight = 10  # Order that this section will appear.
 
 **Initiative für einen holistischen Ansatz in der NDT**
 
-Moderne Prüfung mit der Informationstechnologie von Morgen
+Moderne Prüfung mit technischen Ansätzen von Morgen
