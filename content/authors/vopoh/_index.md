@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior NDT Engineer
+role: Senior NDT Inspector
 
 # Organizations/Affiliations
 organizations:
