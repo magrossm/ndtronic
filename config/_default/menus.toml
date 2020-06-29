@@ -18,12 +18,7 @@
   post = ""
   url = "https://twitter.com/"
   weight = 20
-  
-[[main_right]]
-  name = "<span class=\"btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0 ml-md-3\">Install</span>"
-  post = ""
-  url = "docs/install/"
-  weight = 30
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
