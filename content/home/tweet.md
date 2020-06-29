@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Unsere Community"
-subtitle = "Folge der Bewegung [*#NDTronic*](https://twitter.com/search?q=%23NDTronic&src=typd)"
+subtitle = "Folge der Bewegung [*#ndtronic*](https://twitter.com/search?q=%23ndtronic&src=typd)"
 +++
 
 {{< tweet 1277677145532309505 >}}
