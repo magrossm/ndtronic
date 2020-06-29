@@ -19,8 +19,8 @@
   weight = 30
   
 [[main]]
-  name = "Ziele"
-  url = "#blank"
+  name = "Themen"
+  url = "#featurette"
   weight = 40
 
 [[main_right]]
