@@ -4,7 +4,7 @@ title: Martin Grossmann
 
 # Username (this should match the folder name)
 authors:
-- admin
+- magrossm
 
 # Is this the primary user of the site?
 superuser: true
