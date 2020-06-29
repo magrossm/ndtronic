@@ -22,8 +22,11 @@ bio: postsubtitle
 
 interests:
 - Site Reliability
-- Cloud / Edge Computing
-- x(Sec)Ops 
+- Cloud
+- Edge Computing
+- x(Sec)Ops
+- Big Data
+- Microservices
 
 education:
   courses:
