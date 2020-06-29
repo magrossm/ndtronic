@@ -16,12 +16,12 @@
 [[main]]
   name = "Team"
   url = "#people"
-  weight = 40
+  weight = 30
   
 [[main]]
   name = "Themen"
   url = "#elements"
-  weight = 30
+  weight = 40
 
 [[main_right]]
   name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
