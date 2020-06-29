@@ -51,6 +51,6 @@ weight = 10  # Order that this section will appear.
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/aceademic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Initiative für einen holistischen Ansatz im NDT**
+**Initiative für einen holistischen Ansatz in der NDT**
 
 Moderne Prüfung mit der Informationstechnologie von Morgen
