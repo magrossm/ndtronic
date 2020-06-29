@@ -40,7 +40,7 @@ weight = 10  # Order that this section will appear.
   url = "https://whitepaper"
   label = "Präsentation"
   icon_pack = "fas"
-  icon = "file-powerpoint-o"
+  icon = "superpowers"
   
 [cta_alt]
   url = "https://twitter"
