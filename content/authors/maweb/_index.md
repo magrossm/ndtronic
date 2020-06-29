@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Junior NDT Engineer
+role: Junior NDT Inspector
 
 # Organizations/Affiliations
 organizations:
