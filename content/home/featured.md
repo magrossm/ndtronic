@@ -18,7 +18,6 @@ columns = "1"
 padding = ["20px", "0", "20px", "0"]
 +++
 
-![Xray](xray.jpg)
 
 - **Page builder** - Create *anything* with [**widgets**]({{< relref "" >}}) and [**elements**]({{< relref "" >}})
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
