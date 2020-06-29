@@ -43,7 +43,7 @@ weight = 10  # Order that this section will appear.
   icon = "download"
   
 [cta_alt]
-  url = "https://twitter"
+  url = "https://twitter.com/ndtronic"
   label = "Uns folgen"
 
 # Note. An optional note to show underneath the links.
