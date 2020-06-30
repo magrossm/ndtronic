@@ -19,9 +19,9 @@ padding = ["20px", "0", "20px", "0"]
 +++
 
 
-- **Page builder** - Create *anything* with [**widgets**]({{< relref "" >}}) and [**elements**]({{< relref "" >}})
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**]({{< relref "" >}}), [**Jupyter**]({{< relref "" >}}), or [**RStudio**]({{< relref "" >}})
+- **Zusammenarbeit** - zwischen Menschen und Maschinen. Maschinelle/technische Unterstützung der Prüfer sowie Wissensaustausch in der NDT/NDE sind gefordert, um die Zukunft gemeinsam zu beschreiten.
+- **Offene Protokolle** - Egal ob OPC-UA, MQTT oder AQMP, es müssen einheitliche, herstellerübergreifende Schnittstellen und Protokolle für Prüfsysteme existieren.
+- **Moderne Methoden** in der Prüfmethodik
 - **Plugin System** - Fully customizable [**color** and **font themes**]({{< relref "" >}})
 - **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
 - **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
