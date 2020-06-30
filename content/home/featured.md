@@ -26,4 +26,4 @@ padding = ["20px", "0", "20px", "0"]
 - **Echtzeit** - Time-Sensitive- und Content-Delivery-Netzwerke sowie Edge Computing für verbesserte Datenübertragung und -zugriff.
 - **Infrastruktur** - Clouds, Microservices, Containerizierung. Die NDT muss diese Technologien nutzen.
 - **Digital Eye** - Digitalbasierte Sicht- und Analyse-Unterstützung der Prüfung durch AI und Drohnen.
-- **Datensicherheit** - Hochverfügbarkeit, Revisionsfähigkeit und Informationssicherheit durch moderne Techniken (Verschlüsselung, Blockchanin)
+- **Datensicherheit** - Hochverfügbarkeit, Revisionsfähigkeit und Informationssicherheit durch moderne Techniken (Verschlüsselung, Blockchain)
