@@ -7,19 +7,18 @@ weight = 20  # Order that this section will appear.
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Highly Flexible"
-  description = "Easily manage many different types of content including the homepage, blog posts, publications, talks, slides, online courses, software documentation, projects, and custom pages. Academic even has multilingual support for 15+ languages."
+  name = "Datengrundlage"
+  description = "Für bessere Prüfergebnisse ist eine breite Datengrundlage unverzichtbar. Für die zukünfitge NDT ist die Datenhandhabung, -sicherheit und -verfügbarkeit von zentraler Bedeutung."
   
 [[feature]]
   icon = "cloud"
   icon_pack = "fas"
-  name = "Markdown, Code, Math"
-  description = "Write in Markdown (or RMarkdown) with support for code highlighting and LaTeX math formatting. You can even use our time-saving shortcodes too."
-  
+  name = "Infrastruktur"
+  description = "Ob für die Konzeption, Speicherung oder Verwertung von Informationen sind sichere und hochverfügbare Systemarchitekturen notwendig."
 [[feature]]
   icon = "industry"
   icon_pack = "fas"
-  name = "Themes & Plugins"
-  description = "Academic has a powerful theme and plugin system. Themes let you modify Academic's colors to suit your preferences. Then choose the widgets you want and place them where you want."    
+  name = "Prozesse"
+  description = "Optimierung bestehender Prozessketten beim Testen und Evaluiieren von Werkstoffen wird immer wichtiger. Der ideale Automatisierungsgrad muss gut gewählt sein."    
 
 +++
