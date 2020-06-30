@@ -20,7 +20,7 @@ padding = ["20px", "0", "20px", "0"]
 
 
 - **Zusammenarbeit** - zwischen Menschen und Maschinen. Maschinelle/technische Unterstützung der Prüfer sowie Wissensaustausch in der NDT/NDE sind gefordert, um die Zukunft gemeinsam zu beschreiten.
-- **Offene Protokolle** - Egal ob OPC-UA, MQTT oder AQMP, es müssen einheitliche, herstellerübergreifende Schnittstellen und Protokolle für Prüfsysteme existieren.
+- **Offene Protokolle** - Egal ob OPC-UA, MQTT oder AMQP, es müssen einheitliche, herstellerübergreifende Schnittstellen und Protokolle für Prüfsysteme existieren.
 - **Moderne Methoden** in der Prüfmethodik. Die Ziele **Auffinden, Auswerten und Bewerten** ändern sich nicht; die Durchführung und Anforderungen schon.
 - **Datenbasis** - NDT/NDE in der Zeit der Daten erfordert Big Data Architekturen.
 - **Echtzeit** - Time-Sensitive- und Content-Delivery-Netzwerke sowie Edge Computing für verbesserte Datenübertragung und -zugriff.
