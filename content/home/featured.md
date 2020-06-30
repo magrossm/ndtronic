@@ -21,22 +21,9 @@ padding = ["20px", "0", "20px", "0"]
 
 - **Zusammenarbeit** - zwischen Menschen und Maschinen. Maschinelle/technische Unterstützung der Prüfer sowie Wissensaustausch in der NDT/NDE sind gefordert, um die Zukunft gemeinsam zu beschreiten.
 - **Offene Protokolle** - Egal ob OPC-UA, MQTT oder AQMP, es müssen einheitliche, herstellerübergreifende Schnittstellen und Protokolle für Prüfsysteme existieren.
-- **Moderne Methoden** in der Prüfmethodik
-- **Plugin System** - Fully customizable [**color** and **font themes**]({{< relref "" >}})
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-This website is powered by **Academic**, [GitHub](https://github.com), and [Netlify](https://www.netlify.com), and can be built in **under 10 minutes for free**.
-
-Explore the [personal demo](https://academic-demo.netlify.app/) or project/organization demo (this site), and then consider heading on over to [install]({{< relref "" >}}) and [personalize]({{< relref "" >}}) your own site.
-
-If you like Academic, [_star_ it on Github](https://github.com/gcushen/hugo-academic) to show your support and keep track of updates :smiley:
+- **Moderne Methoden** in der Prüfmethodik. Die Ziele **Auffinden, Auswerten und Bewerten** ändern sich nicht; die Durchführung und Anforderungen schon.
+- **Datenbasis** - NDT/NDE in der Zeit der Daten erfordert Big Data Architekturen.
+- **Echtzeit** - Time-Sensitive- und Content-Delivery-Netzwerke sowie Edge Computing für verbesserte Datenübertragung und -zugriff.
+- **Infrastruktur** - Clouds, Microservices, Containerizierung. Die NDT muss diese Technologien nutzen.
+- **Digital Eye** - Digitalbasierte Sicht- und Analyse-Unterstützung der Prüfung durch AI und Drohnen.
+- **Datensicherheit** - Hochverfügbarkeit, Revisionsfähigkeit und Informationssicherheit durch moderne Techniken (Verschlüsselung, Blockchanin)
