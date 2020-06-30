@@ -19,6 +19,6 @@ weight = 20  # Order that this section will appear.
   icon = "industry"
   icon_pack = "fas"
   name = "Prozesse"
-  description = "Optimierung bestehender Prozessketten beim Testen und Evaluiieren von Werkstoffen wird immer wichtiger. Der ideale Automatisierungsgrad muss gut gewählt sein."    
+  description = "Optimierung bestehender Prozessketten beim Testen und Evaluieren von Werkstoffen wird immer wichtiger. Der ideale Automatisierungsgrad muss gut gewählt sein."    
 
 +++
