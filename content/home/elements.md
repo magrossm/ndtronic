@@ -7,39 +7,39 @@ weight = 27  # Order that this section will appear.
 title = "Unsere **Themen** sind die Zukunft"
 
 [[element]]
-  name = "Widgets"
+  name = "Big Data"
   link = ""
 [[element]]
-  name = "Themes"
+  name = "NDE 4.0"
   link = ""
 [[element]]
-  name = "Blog Post"
+  name = "Automatisierung"
   link = ""
 [[element]]
-  name = "Publication"
+  name = "AI"
   link = ""
 [[element]]
-  name = "Events & Slides"
+  name = "Clouds"
   link = ""
 [[element]]
-  name = "Filterable Portfolio"
+  name = "Datensicherheit"
   link = ""
 [[element]]
-  name = "Diagrams"
+  name = "Messaging"
   link = ""
 [[element]]
-  name = "Code"
+  name = "Machine Learning"
   link = ""
 [[element]]
-  name = "Math"
+  name = "IIoT"
   link = ""
 [[element]]
-  name = "Comments"
+  name = "Zertifizierung"
   link = ""
 [[element]]
-  name = "Gallery"
+  name = "Smart NDT" 
   link = ""
 [[element]]
-  name = "Image"
+  name = "Qualitätsmanagement"
   link = ""
 +++
