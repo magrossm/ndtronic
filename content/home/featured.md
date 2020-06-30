@@ -5,7 +5,7 @@ active = true # Activate this widget? true/false
 weight = 30 # Order that this section will appear.
 
 title = "Ziele"
-subtitle = "Wir wollen"
+subtitle = "Wir stehen für"
 
 [design]
 
