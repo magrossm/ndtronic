@@ -27,6 +27,7 @@ interests:
 - IoT
 - Big Data
 - Microservices
+- Datenschutz
 
 education:
   courses:
